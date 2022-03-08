@@ -1,1 +1,1 @@
-#thim1824.github.io/bacs200
+thim1824.github.io/bacs200
